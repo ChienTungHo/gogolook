@@ -1,0 +1,5 @@
+DBUrl = 'your db domain'
+DBName = 'your db name'
+DBUser = 'your account'
+DBPassword = 'your password'
+DBTable = 'your db table'
